@@ -1,4 +1,5 @@
 ## Jianru Shi
+<sjru123@gmail.com>
 
 ### Projects
 - [Baseball](baseball_project/baseball_project.md)

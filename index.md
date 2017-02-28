@@ -2,8 +2,8 @@
 <sjru123@gmail.com>
 
 ### Projects
-- [Baseball](baseball_project/baseball_project.md)
-- [Baseball Play](baseball_players/baseball_players.md)
+- [Baseball](Baseball_Players/Baseball_Players_Analysis_Report .md)
+
 
 
 ## Welcome to GitHub Pages

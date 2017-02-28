@@ -122,7 +122,7 @@ incongruent condition.
     ## mean of the differences 
     ##               -7.964792
 
-Question 6 (*Optional*)
+Question 6 (_Optional_)
 -----------------------
 
 **What do you think is responsible for the effects observed? Can you

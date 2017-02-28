@@ -127,7 +127,7 @@ Question 6
 
 **What do you think is responsible for the effects observed? Can you
 think of an alternative or similar task that would result in a similar
-effect? **
+effect?**
 
 One possible explanation can be when we see a word we can read it
 directly. However, when we see a color we need to first name the color

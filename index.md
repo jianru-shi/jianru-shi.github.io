@@ -8,7 +8,7 @@
 
 - [Stroop Effect](Stroop_Effect/stroop.md)
 
-- [Simulation Study](simu/simu.md)
+- [Simulation Study](http://rpubs.com/jianrushi/254667)
 
 
 

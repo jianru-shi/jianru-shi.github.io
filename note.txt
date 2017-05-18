@@ -1,3 +1,6 @@
+# update current_base for local run
+see _config.yml
+
 # run Jekyll locally
 jekyll serve
 

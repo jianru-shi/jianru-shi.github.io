@@ -10,7 +10,9 @@
 
 - [Simulation Study](http://rpubs.com/jianrushi/254667)
 
+-[Open Street Map Data Wrangling] (Open_Street_Map/OSM_Report.md)
 
 
+-[Prosper Loan EDA](Prosper_Loan_EDA)
 
 

@@ -5,3 +5,5 @@ description: Jianru was a PhD student in environmental science. Two years ago Ji
 # for local test, change this to
 # current_base: http://127.0.0.1:4000/
 current_base: https://jianru-shi.github.io
+gems:
+  - jemoji

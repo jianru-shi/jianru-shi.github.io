@@ -1,7 +1,6 @@
 
 # Prosper Loan Exploratory Data Analysis
-
-============
+## By Jianru Shi
 
 
 Introdcution

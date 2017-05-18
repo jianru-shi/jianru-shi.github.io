@@ -193,6 +193,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  gemoji
   github-pages
 
 BUNDLED WITH

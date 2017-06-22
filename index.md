@@ -1,6 +1,10 @@
 ## Jianru Shi
 <sjru123@gmail.com>
 
+[Github Page](https://github.com/jianru-shi)
+
+[Linkedin Page](https://www.linkedin.com/in/jianrushi/)
+
 ### Projects
 
 

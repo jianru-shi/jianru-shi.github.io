@@ -15,5 +15,7 @@
 
 :dollar:  [Prosper Loan EDA](Prosper_Loan_EDA/Prosper_Loan_EDA.md)
 
+:ab: [A/B Test on Udacity New Feature](ABTest/ABTestFinalProject.pdf)
 
 :chart_with_upwards_trend:  [Distributions Simulation Study](http://rpubs.com/jianrushi/254667)
+

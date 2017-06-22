@@ -1,9 +1,4 @@
 ## Jianru Shi
-<sjru123@gmail.com>
-
-[Github Page](https://github.com/jianru-shi)
-
-[Linkedin Page](https://www.linkedin.com/in/jianrushi/)
 
 ### Projects
 
@@ -22,4 +17,3 @@
 :ab: [A/B Test on Udacity New Feature](ABTest/ABTestFinalProject.pdf)
 
 :chart_with_upwards_trend:  [Distributions Simulation Study](http://rpubs.com/jianrushi/254667)
-

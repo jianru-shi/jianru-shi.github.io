@@ -1,10 +1,7 @@
-## Jianru Shi
-
-### Projects
+## Projects
 
 
 :baseball:  [Baseball Players Analysis](Baseball_Players/Baseball_Players_Analysis_Report.md)
-
 
 :bike:  [Bay Area Bike Share Analysis](Bay_Area_Bike/Bay_Area_Bike_Share_Analysis.md)
 
